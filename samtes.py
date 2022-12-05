@@ -1,3 +1,5 @@
 print("this is python.")
-print("it is a high level language.")
+print("it is a high level language!!.")
 print("it is user friendly")
+print("it is very readable")
+print("it is also cross platform.")
